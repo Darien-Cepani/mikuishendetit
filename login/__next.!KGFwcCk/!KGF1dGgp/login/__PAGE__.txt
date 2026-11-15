@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[272332,["/mikuishendetit/_next/static/chunks/12bf13k0b-qzo.js","/mikuishendetit/_next/static/chunks/0kkfv-lbzf_xl.js","/mikuishendetit/_next/static/chunks/3ce_y0ivxoy6_.js","/mikuishendetit/_next/static/chunks/20empkgh8wzmi.js"],"MockLoginForm"]
+3:I[36222,["/mikuishendetit/_next/static/chunks/3t1a8q733ay6h.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[36222,["/mikuishendetit/_next/static/chunks/3t1a8q733ay6h.js"],"ViewportBoundary"]
+9:I[36222,["/mikuishendetit/_next/static/chunks/3t1a8q733ay6h.js"],"MetadataBoundary"]
+a:I[352089,["/mikuishendetit/_next/static/chunks/3t1a8q733ay6h.js"],"IconMark"]
+c:I[383706,["/mikuishendetit/_next/static/chunks/3t1a8q733ay6h.js"],"default"]
+d:I[879404,["/mikuishendetit/_next/static/chunks/3t1a8q733ay6h.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"R1yRDxd7jX5l3mBDP_ZTm","data":[{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"className":"h-page","children":"Mirë se vini"}],["$","p",null,{"className":"mb-8 mt-2 text-muted","children":"Hyni për të parë kartelën, dokumentet dhe porositë."}],["$","$L2",null,{}],["$","p",null,{"className":"mt-8 text-center text-[0.95rem] text-muted","children":["Llogaritë hapen nga ekipi ynë, pas vizitës së parë. Nuk keni ende?"," ",["$","a",null,{"href":"/#kontakt","className":"link -my-2 inline-flex min-h-10 items-center","children":"Na kontaktoni"}]]}]],[["$","script","script-0",{"src":"/mikuishendetit/_next/static/chunks/3ce_y0ivxoy6_.js","async":true}],["$","script","script-1",{"src":"/mikuishendetit/_next/static/chunks/20empkgh8wzmi.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content"}],["$","meta","2",{"name":"theme-color","content":"#F6FAF9"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Hyni · Miku i Shëndetit"}],["$","link","1",{"rel":"manifest","href":"/mikuishendetit/manifest.webmanifest"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"Miku"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","6",{"rel":"icon","href":"/mikuishendetit/img/favicon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"icon","href":"/mikuishendetit/img/favicon.ico","sizes":"any"}],["$","link","8",{"rel":"apple-touch-icon","href":"/mikuishendetit/img/apple-touch-icon.png"}],["$","$La","9",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"

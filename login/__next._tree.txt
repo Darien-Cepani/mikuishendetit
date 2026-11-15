@@ -1,0 +1,5 @@
+:HL["/mikuishendetit/_next/static/chunks/3ca_3gt2snf1r.css","style"]
+:HL["/mikuishendetit/fonts/atkinson.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mikuishendetit/fonts/outfit.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mikuishendetit/brand/logo.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(app)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"(auth)","param":null,"prefetchHints":4096,"slots":{"children":{"name":"login","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"R1yRDxd7jX5l3mBDP_ZTm"}

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fartikuj\u002F[slug]","\u002Fen\u002Farticles\u002F[slug]","\u002Fen\u002Fproducts\u002F[slug]","\u002Fit\u002Farticoli\u002F[slug]","\u002Fit\u002Fprodotti\u002F[slug]","\u002Fprodukte\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

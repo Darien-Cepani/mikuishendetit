@@ -1,0 +1,115 @@
+# Miku i Shëndetit
+
+> Miku i Shëndetit ("the friend of health") provides medical and social care at home in Tirana, Albania: general practitioners and specialists, nurses, physiotherapists, psychologists and social workers. Every visit is documented in a medical report (vital signs, symptoms, treatment, recommendations) sent to the patient or family by email or WhatsApp. The site is in Albanian (default), English and Italian.
+
+Contact: +355 69 000 0000, info@mikuishendetit.al. Area served: Tirana. Emergencies: call 127.
+
+## About
+Doctors, nurses, physiotherapists, psychologists and social workers who care for patients in their own homes. Every visit is recorded in a digital medical chart, so you are always informed about the patient’s health.
+- Licensed and registered: Every doctor is a member of the Order of Physicians of Albania and every nurse of the Order of Nurses. We publish licence numbers here before launch.
+- The same clinical protocols for everyone: Visits, procedures and reports follow the same protocols, so quality doesn’t depend on who visits.
+- A complete medical chart: Vital signs, symptoms, examination, treatment, lab tests and imaging are stored by visit date.
+- Privacy by law: Medical data is handled under Albanian personal data protection law. Administrators never see personal health data.
+
+## The online medical chart
+The doctor records everything in the app during the visit. On a monthly package, you open your own chart whenever you like.
+1. The doctor comes for a first visit: They get to know the patient and their medical history, then measure the vital signs: blood pressure, pulse, oxygen saturation and a random blood sugar.
+2. Everything goes into the online chart: During the visit the doctor records in the app the vital signs, the symptoms the patient reports, the physical examination, the treatment, and every lab test and imaging study done before. Nothing stays only on paper.
+3. Choose how to continue: Become a member with one of the monthly packages, or book services only when you need them. Every service is recorded in the chart either way.
+4. Members open their own chart: With a monthly or yearly package, you sign in to the app and see your whole medical history: visits, lab results with graphs of how they change, and imaging studies, all documented and stored by the date they were done.
+5. Explanations and advice from the doctor: The doctor explains your test results in plain words, notes your current health status and the recommendations going forward. You see them as soon as they are added.
+Privacy: Only you and your care team: The chart is seen by the patient, the family members they choose and the professionals caring for them. No one else. Every opening is logged: Who opened or changed the chart, and when. The log can’t be deleted. Protected sign-in: Our team opens your account. A personal password, a lock after repeated wrong attempts, an encrypted connection. Documents stay private: Lab results and reports open only inside your account. You can ask for a copy, or for them to be deleted, at any time.
+
+## Monthly home care packages
+- Basic (Bazë): doctor twice a month, nurse 4 times a month, basic lab panel once, report after every visit. For people who are well but want regular check-ups.
+- Medium (Medium): doctor 4 times a month, nurse twice a week, basic lab panel once, 24/7 medical phone support, report after every visit. For chronic conditions that need weekly follow-up.
+- Complete (E plotë): doctor 6 times a month, nurse 10 times a month, basic lab panel every month, psychologist or physiotherapist once a month, 24/7 medical phone support, report after every visit. For bedbound patients or recovery after a hospital stay.
+- Basic lab panel: full blood count, lipid profile, fasting glucose, HbA1c. Prices are quoted on request unless shown.
+
+## Single services at home
+- Procedures at home: Intramuscular or subcutaneous injection; Intravenous injection; Wound cleaning and dressing; Urinary catheter placement and change; Nasogastric tube placement; Suctioning of secretions; Ear cleaning; Blood draw for tests; IV drip (infusion); Stitch and staple removal; Stoma care; Vaccination at home
+- Diagnostics: Ultrasound at home, with a report; Lab tests based on medical history; ECG at home; 24-hour Holter ECG; 24-hour blood pressure monitoring; Rapid tests at home; Blood pressure and blood sugar check
+- Specialists: Physiotherapist at home; Psychologist at home; Medical specialist at home; Online consultation with an internationally experienced specialist; Paediatrician at home; Speech therapist at home; Dietitian; Occupational therapist; Palliative care at home
+- Transport: Ambulance transport, in and out of town; Wheelchair transport; Escort to appointments and tests
+- Support services: Personal hygiene assistant; Housekeeping help; Daytime companion; Night carer; Training for family carers
+
+## Occupational medicine for businesses
+- Basic: Doctor visit twice a month; Nurse visit twice a month; Clinical records on paper and online
+- Premium: Doctor visit twice a month; Nurse visit twice a month; Clinical records on paper and online; Monthly staff training: first aid and workplace risks; Specialist consultations based on workplace risk factors
+
+## Products (home delivery in Tirana; indicative prices in Albanian lek)
+### Measuring devices
+- [Upper-arm blood pressure monitor](https://mikuishendetit.al/en/products/upper-arm-blood-pressure-monitor): Measures blood pressure and pulse at the press of a button. 4900 ALL.
+- [Finger pulse oximeter](https://mikuishendetit.al/en/products/finger-pulse-oximeter): Shows blood oxygen and pulse in 10 seconds. 2200 ALL.
+- [Wrist blood pressure monitor](https://mikuishendetit.al/en/products/wrist-blood-pressure-monitor): Small and light: checks blood pressure at the wrist, wherever you are. 3900 ALL.
+- [Blood glucose meter kit](https://mikuishendetit.al/en/products/blood-glucose-meter-kit): Measures blood sugar from a single drop. 3500 ALL.
+- [Digital thermometer](https://mikuishendetit.al/en/products/digital-thermometer): Accurate temperature in 10 seconds, no mercury. 650 ALL.
+- [Glucose test strips, 50 pack](https://mikuishendetit.al/en/products/glucose-test-strips-50): Refill strips for our glucose meter. 1800 ALL.
+- [No-contact thermometer](https://mikuishendetit.al/en/products/no-contact-thermometer): Measures temperature on the forehead, even while the patient sleeps. 2900 ALL.
+- [Digital bathroom scale](https://mikuishendetit.al/en/products/digital-bathroom-scale): Accurate weight with large digits. 2400 ALL.
+- [Lancets for glucose meters, 100 pack](https://mikuishendetit.al/en/products/glucose-meter-lancets-100): Fine needles for the lancing device, one for each test. 650 ALL.
+### Therapy at home
+- [Compressor nebulizer](https://mikuishendetit.al/en/products/nebulizer): Turns liquid medicine into a mist that is easy to breathe in. 5600 ALL.
+- [Alternating air mattress for pressure sores](https://mikuishendetit.al/en/products/alternating-air-pressure-mattress): Shifts pressure by itself and protects the skin of a bed-bound patient. 9800 ALL.
+- [Nebulizer mask set, child and adult](https://mikuishendetit.al/en/products/nebulizer-mask-set-child-adult): Soft masks that fit the face, with a medicine cup. 900 ALL.
+### Mobility and safety
+- [Rollator walker with seat](https://mikuishendetit.al/en/products/rollator-walker): Walk with more confidence and sit when you tire. 11900 ALL.
+- [Folding wheelchair](https://mikuishendetit.al/en/products/folding-wheelchair): Light and folding: for home, appointments and walks. 18900 ALL.
+- [Shower chair](https://mikuishendetit.al/en/products/shower-chair): Wash sitting down, without the risk of slipping. 4200 ALL.
+- [Quad cane](https://mikuishendetit.al/en/products/quad-cane): Stands on its own and supports more than a regular cane. 2600 ALL.
+- [Suction grab bar for the bathroom](https://mikuishendetit.al/en/products/suction-bathroom-grab-bar): Grips the tiles by suction, no drilling needed. 1700 ALL.
+### Wound care
+- [First aid kit](https://mikuishendetit.al/en/products/first-aid-kit): Everything for small cuts, burns and sprains, in one place. 2800 ALL.
+- [Sterile gauze pads 10×10 cm, 25 pack](https://mikuishendetit.al/en/products/sterile-gauze-pads): For cleaning and covering wounds. 450 ALL.
+- [Adhesive wound dressings, 10 pack](https://mikuishendetit.al/en/products/adhesive-wound-dressings): Cover the wound and let the skin breathe. 890 ALL.
+- [Chlorhexidine antiseptic, 250 mL](https://mikuishendetit.al/en/products/chlorhexidine-antiseptic): Disinfects skin and wounds without stinging. 520 ALL.
+- [Nitrile gloves, 100 pack](https://mikuishendetit.al/en/products/nitrile-gloves): For patient care and hygiene, latex-free. 990 ALL.
+- [Zinc barrier cream](https://mikuishendetit.al/en/products/zinc-barrier-cream): Protects the skin from redness and pressure sores. 950 ALL.
+### Pharmacy and supplements
+- [Vitamin D3 drops, 1000 IU](https://mikuishendetit.al/en/products/vitamin-d3-drops): For bones and muscles, especially in winter. 1200 ALL.
+- [Oral rehydration salts, 10 sachets](https://mikuishendetit.al/en/products/oral-rehydration-salts): Replace water and salts after diarrhoea or vomiting. 380 ALL.
+- [Saline solution, 20 × 5 mL ampoules](https://mikuishendetit.al/en/products/saline-ampoules): For the nose, eyes, wounds and the nebulizer. 600 ALL.
+- [Probiotic, 10 capsules](https://mikuishendetit.al/en/products/probiotic-10-capsules): Protects the gut during and after a course of antibiotics. 1100 ALL.
+- [Omega-3, 60 capsules](https://mikuishendetit.al/en/products/omega-3-60-capsules): Purified fish oil, for the heart and blood fats. 1600 ALL.
+- [Magnesium + B6, 20 effervescent tablets](https://mikuishendetit.al/en/products/magnesium-b6-20-effervescent): For leg cramps and tiredness, in a glass of water. 900 ALL.
+### Everyday care
+- [Adult briefs, 30 pack](https://mikuishendetit.al/en/products/adult-incontinence-briefs-30): Absorbent and soft, for day and night. 1900 ALL.
+- [Weekly pill organiser](https://mikuishendetit.al/en/products/weekly-pill-organiser): No missed doses, no double doses. 750 ALL.
+- [Compression stockings](https://mikuishendetit.al/en/products/compression-stockings): Help circulation in the legs and reduce swelling. 2100 ALL.
+- [Waterproof mattress protector](https://mikuishendetit.al/en/products/waterproof-mattress-protector): Keeps the mattress dry, without rustling or sweating. 1600 ALL.
+- [Bed tray with legs](https://mikuishendetit.al/en/products/bed-tray-with-legs): For meals, reading or medicines, without getting out of bed. 2300 ALL.
+- [Hot and cold gel pack](https://mikuishendetit.al/en/products/hot-cold-gel-pack): In the fridge for swelling, in hot water for stiff muscles. 750 ALL.
+
+## FAQ
+- Where do you visit? We come to your home, wherever you are. Ambulance transport outside the city is priced by distance. Call us and we will tell you straight away when we can come.
+- Who are the professionals that visit? Our team includes general practitioners and specialists, nurses, physiotherapists, psychologists and social workers. Who visits depends on the patient’s needs and the package you choose.
+- What does the medical report include? Vital signs (blood pressure, pulse, oxygen saturation, blood sugar, temperature, respiratory rate), symptoms, the examination, the treatment given and recommendations. Reports are kept by date and sent to you by email or WhatsApp.
+- How does the online medical chart work? On the first visit the doctor opens your chart in the app and records your vital signs, history, examination and treatment. Every visit, test, ultrasound or X-ray is added by date. On a monthly package you open the chart yourself and see your history, current status, explanations of your test results and the doctor’s recommendations.
+- Who can see my medical data? Only you and the professionals caring for you, each according to their role. The service’s administrators never see personal health data.
+- Can I book a single service without a package? Yes. Injections, dressings, blood draws, home ultrasound, catheter care, physiotherapy and our other services can be booked one at a time. Every service is recorded in the medical report.
+- How much do the packages cost? The price depends on the address, the patient’s condition and the package. After a short call we give you an exact price, with no obligation.
+- What do you offer businesses? Occupational medicine: doctor and nurse visits at your office, clinical records on paper and online at no extra cost, and on the Premium package monthly first aid training for your staff.
+- What should I do in an emergency? In an emergency call 127 straight away. Clients on the Medium and Complete packages also have 24/7 medical phone support.
+
+## Pages
+- [Home (Albanian)](https://mikuishendetit.al/): overview, how it works, packages, FAQ, contact
+- [Home (English)](https://mikuishendetit.al/en), [Home (Italian)](https://mikuishendetit.al/it)
+- [Packages and services (Albanian)](https://mikuishendetit.al/paketat)
+- [Packages and services (English)](https://mikuishendetit.al/en/packages), [Packages and services (Italian)](https://mikuishendetit.al/it/pacchetti)
+- [About us (Albanian)](https://mikuishendetit.al/rreth-nesh), [About us (English)](https://mikuishendetit.al/en/about), [About us (Italian)](https://mikuishendetit.al/it/chi-siamo): credentials, area served
+- [Shop (Albanian)](https://mikuishendetit.al/produkte), [Shop (English)](https://mikuishendetit.al/en/products), [Shop (Italian)](https://mikuishendetit.al/it/prodotti): medical devices and supplies for the home
+
+## Articles
+- [How to measure blood pressure correctly at home](https://mikuishendetit.al/en/articles/measuring-blood-pressure-at-home): A few small mistakes can push the reading up. These are the steps our nurses follow on every visit. By Inf. Klodiana Basha.
+- [Dehydration in older adults: the signs that go unnoticed](https://mikuishendetit.al/en/articles/dehydration-in-older-adults): The sense of thirst weakens with age. Here is how to spot dehydration early and prevent it. By Dr. Elona Shehu.
+- [What HbA1c shows and why it is in every package](https://mikuishendetit.al/en/articles/what-hba1c-shows): Blood glucose shows today's sugar level. HbA1c shows the average over the last two to three months. By Dr. Ermal Gjoka.
+- [Si ta bëni shtëpinë më të sigurt kundër rënieve](https://mikuishendetit.al/artikuj/si-ta-beni-shtepine-me-te-sigurt-kunder-renieve): Ndryshime të vogla në shtëpi që ulin rrezikun e rënies për prindërit e moshuar. (shqip)
+- [Si ta matni saktë tensionin e gjakut në shtëpi](https://mikuishendetit.al/artikuj/si-ta-matni-tensionin-ne-shtepi): Disa gabime të vogla mund ta rrisin vlerën e matur. Ja hapat që ndjekin infermierët tanë në çdo vizitë. (shqip)
+- [Dehidratimi te të moshuarit: shenjat që kalojnë pa u vënë re](https://mikuishendetit.al/artikuj/dehidratimi-te-te-moshuarit): Me moshën, ndjesia e etjes dobësohet. Ja si ta dalloni dehidratimin herët dhe si ta parandaloni. (shqip)
+- [Çfarë tregon HbA1c dhe pse e përfshijmë në çdo paketë](https://mikuishendetit.al/artikuj/cfare-tregon-hba1c): Glicemia tregon sheqerin e sotëm. HbA1c tregon mesataren e dy deri tre muajve të fundit. (shqip)
+- [Come misurare correttamente la pressione a casa](https://mikuishendetit.al/it/articoli/misurare-la-pressione-a-casa): Alcuni piccoli errori possono far salire il valore. Ecco i passaggi che i nostri infermieri seguono a ogni visita. (italiano)
+- [La disidratazione negli anziani: i segnali che passano inosservati](https://mikuishendetit.al/it/articoli/disidratazione-negli-anziani): Con l’età il senso di sete si indebolisce. Ecco come riconoscere presto la disidratazione e prevenirla. (italiano)
+- [Cosa mostra l’HbA1c e perché è in ogni pacchetto](https://mikuishendetit.al/it/articoli/cosa-mostra-hba1c): La glicemia mostra lo zucchero di oggi. L’HbA1c mostra la media degli ultimi due o tre mesi. (italiano)
+
+## Optional
+- [Sitemap](https://mikuishendetit.al/sitemap.xml)
